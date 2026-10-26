@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Aybars</title>
+  <desc id="desc">Matematik, denklemler ve eşitlikler, yerel yapay zekâ.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A101C"/>
+      <stop offset="1" stop-color="#111C30"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5B8DEF"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect x="0" y="0" width="1200" height="3" fill="url(#accent)"/>
+
+  <g>
+    <circle cx="1000" cy="160" r="122" fill="none" stroke="#5B8DEF" stroke-opacity="0.16"/>
+    <circle cx="1000" cy="160" r="92" fill="none" stroke="#38BDF8" stroke-opacity="0.10" stroke-dasharray="4 10"/>
+    <text x="1000" y="214" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="150" fill="#7FA6FF" fill-opacity="0.30">&#8747;</text>
+    <circle cx="1092" cy="78" r="4" fill="#38BDF8" fill-opacity="0.50"/>
+    <circle cx="898" cy="246" r="3" fill="#5B8DEF" fill-opacity="0.50"/>
+  </g>
+
+  <g>
+    <text x="72" y="96" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" letter-spacing="4" fill="#6E8CC9">MATEMATİK · YEREL YAPAY ZEKÂ</text>
+    <text x="72" y="162" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-1.5" fill="#F8FAFC">Aybars</text>
+    <rect x="72" y="184" width="64" height="4" rx="2" fill="url(#accent)"/>
+    <text x="72" y="224" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#B6C2D6">Denklemler, eşitlikler ve matematiksel hesaplama.</text>
+    <text x="72" y="268" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#64748B">Bartın Üniversitesi · Fen Fakültesi, Matematik Bölümü</text>
+  </g>
+</svg>
