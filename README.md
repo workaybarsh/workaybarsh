@@ -49,7 +49,7 @@ Uzaktan kumanda odaklı, TV-first IPTV oynatıcı. M3U/M3U8 oynatma listeleri, k
 - **[MamidLabsENG](https://github.com/workaybarsh/MamidLabsENG)** — MamidLabs'in İngilizce sürümü.
 - **[mamidlabs_linux](https://github.com/workaybarsh/mamidlabs_linux)** · **[mamidlabs_mac](https://github.com/workaybarsh/mamidlabs_mac)** — Linux ve macOS portları (Python + Qt6).
 - **[ScientificCalculator-android](https://github.com/workaybarsh/ScientificCalculator-android)** — Aynı hesaplama motorunun Android sürümü.
-- **[android](https://github.com/workaybarsh/android)** — ZeltaTV'nin Android TV ve telefon portu.
+- **[zeltatv-android](https://github.com/workaybarsh/zeltatv-android)** — ZeltaTV'nin Android TV ve telefon portu.
 - **[Yabaylar-okey-oynaylar](https://github.com/workaybarsh/Yabaylar-okey-oynaylar)** — 101 Okey için yapay zekâ rakipler ve sohbet içeren tasarım çalışması.
 
 ## Teknolojiler
