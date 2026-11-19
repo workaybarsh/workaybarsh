@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a final-year undergraduate student in the Department of Mathematics, Faculty of Science, at Bartın University. My academic interests center on equations and identities, together with the methods used to solve and prove them. I translate these interests into software projects that run locally and produce verifiable computational results.
+I am a final-year undergraduate student in the Department of Mathematics, Faculty of Science, at Bartın University. My academic interests center on equations and identities, together with the methods used to solve and prove them. I convert these interests into software projects that run locally and produce verifiable computational results.
 
 I develop desktop and Android applications, including multimodal AI workspaces, offline scientific calculators, voice assistants and IPTV players. The guiding principle behind these projects is local-first computation: wherever possible, processing takes place on the user's own hardware, computed results can be verified, and network access is confined to features that explicitly require it.
 
